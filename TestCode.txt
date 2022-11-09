@@ -1,1 +1,7 @@
+system: hello world
+you: hi earth.
 hello world
+
+if(helloword)
+then helloword
+
